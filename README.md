@@ -1,34 +1,57 @@
-# Hi, I'm Kaushik Pal 👋
+<div align="center">
 
-Turning ideas into code 💡 — **AI • ML • Data • Cloud**. I build end-to-end AI applications and test automation, and I care about reliability: tests, evaluation and security boundaries, not just demos.
+<img src="assets/header.svg" alt="Kaushik Pal — AI, ML, Data, Cloud" width="100%"/>
 
-## 🚀 Featured projects
+<br/>
 
-### [AI Interview Copilot](https://github.com/anonymousproxi/ai-interview-copilot)
-Live voice interview studio that runs adaptive technical and behavioral interviews, adjusts difficulty as the candidate answers, and produces structured evaluation reports.
-`Next.js` `TypeScript` `Vapi` `Firebase` `Vitest` — 44 automated tests
+**I build AI products that are tested, evaluated and safe to ship — not just demos.**
 
-### [Customer Support AI Agent (Hybrid RAG)](https://github.com/anonymousproxi/rag-intelligent-document-retrieval)
-Support agent with hybrid retrieval (BM25 + TF-IDF + Reciprocal Rank Fusion), cited answers, a redacted order-lookup tool boundary, prompt-injection guardrails and a reproducible offline benchmark (21/21 cases, 60 tests).
-`Python` `FastAPI` `Streamlit` `RAG` `pytest`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
-### [BetaFold](https://github.com/anonymousproxi/Betafold)
-Protein structure analysis web app with a 3D viewer, mutation analysis and an AI chat assistant.
-`FastAPI` `Next.js` `Mol*`
+</div>
 
-### [El País Cross-Browser Automation](https://github.com/anonymousproxi/EL-Pais-Webscraping-Automation)
-Selenium framework that scrapes and validates El País Opinion articles in parallel on real browsers and devices via BrowserStack, with translation and keyword analysis.
-`Python` `Selenium` `BrowserStack` `NLTK`
+<br/>
 
-## 🛠️ Tech I work with
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFA611?logo=firebase&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+<div align="center">
+<img src="assets/terminal.svg" alt="terminal" width="720"/>
+</div>
 
-## 📫 Connect
-GitHub: [@anonymousproxi](https://github.com/anonymousproxi)
+## ✨ Featured work
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/anonymousproxi/ai-interview-copilot"><img src="assets/card1.svg" alt="AI Interview Copilot"/></a></td>
+<td width="50%"><a href="https://github.com/anonymousproxi/rag-intelligent-document-retrieval"><img src="assets/card2.svg" alt="Support Agent Hybrid RAG"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/anonymousproxi/Betafold"><img src="assets/card3.svg" alt="BetaFold"/></a></td>
+<td width="50%"><a href="https://github.com/anonymousproxi/EL-Pais-Webscraping-Automation"><img src="assets/card4.svg" alt="El País Automation"/></a></td>
+</tr>
+</table>
+
+## 🧠 How I like to build
+
+```text
+ idea ──▶ prototype ──▶ tests ──▶ evaluation ──▶ guardrails ──▶ ship
+                          ▲                          │
+                          └──── measure, then fix ◀──┘
+```
+
+- **Test first, claim second** — every headline number in my repos comes from a runnable test or benchmark.
+- **Boundaries over prompts** — sensitive data never reaches the model; tools return redacted views.
+- **Deterministic by default** — reproducible offline modes so results can be verified, not trusted.
+
+<div align="center">
+
+<br/>
+
+*"Always experimenting, always improving."*
+
+<img src="assets/footer.svg" width="100%" alt=""/>
+
+</div>
